@@ -1,0 +1,28 @@
+V1.0.0
+- Player can walk in bounds of the playground
+- Game crreated in 1 hour
+
+V1.0.1
+- No need to press Enter after input
+
+V1.0.2
+- Now Player can adjust the size of playground
+- Added X and Y cooordinates of Plaayer's location
+
+V1.0.3
+- Now Player can teleport to centre
+
+V1.0.4
+- Added collectable item that spawns in random location
+- Player gains 1 score for each picked item
+- Player now can walk and run. Also player can see whether he's walking or running
+- Playground Size is now constantly visible to a player
+- Apple resets its location in bounds if size of playground was changed
+- Interface is now more organized
+
+V1.0.5
+- Optimized code
+- Added reset score button
+
+v1.0.6
+- Fixed bug where game crashes if playground size set to 1x1
